@@ -7,7 +7,7 @@
 
   在线操作测试git，理解git基本操作，适合初学者，界面简单易操作。
 
-  [https://github.com/loatheb/awsome-visualization/blob/master/images/learn-git.gif](https://github.com/loatheb/awsome-visualization/blob/master/images/learn-git.gif)
+  ![https://github.com/loatheb/awsome-visualization/blob/master/images/learn-git.gif](https://github.com/loatheb/awsome-visualization/blob/master/images/learn-git.gif)
 
 * Event Loop 可视化
 
@@ -15,7 +15,7 @@
 
   可视化JS runtime显示
 
-  [https://github.com/loatheb/awsome-visualization/blob/master/images/js-runtime.gif](https://github.com/loatheb/awsome-visualization/blob/master/images/js-runtime.gif)
+  ![https://github.com/loatheb/awsome-visualization/blob/master/images/js-runtime.gif](https://github.com/loatheb/awsome-visualization/blob/master/images/js-runtime.gif)
 
 * 算法 可视化
 
@@ -23,4 +23,4 @@
 
   提供基础算法的可视化，目前有快速排序（递归），二分搜索的可视化表现。
 
-  [https://github.com/loatheb/awsome-visualization/blob/master/images/algorithms.gif](https://github.com/loatheb/awsome-visualization/blob/master/images/algorithms.gif)
+  ![https://github.com/loatheb/awsome-visualization/blob/master/images/algorithms.gif](https://github.com/loatheb/awsome-visualization/blob/master/images/algorithms.gif)
